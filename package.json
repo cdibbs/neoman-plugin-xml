@@ -1,0 +1,15 @@
+{
+  "name": "neoman-plugin-xml",
+  "version": "1.0.0",
+  "description": "A plugin for parsing XML in Neoman templates.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Dibbern <chris.dibbern@gmail.com> (https://github.com/cdibbs)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cheerio": "^0.22.1",
+    "cheerio": "^1.0.0-rc.1"
+  }
+}
